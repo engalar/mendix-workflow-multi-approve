@@ -1,0 +1,11 @@
+Buildfile: C:\Users\eg\Documents\Mendix\Approval Template_2\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 34 files to C:\Users\eg\Documents\Mendix\Approval Template_2\deployment
+     [copy] Copying 35 files to C:\Users\eg\Documents\Mendix\Approval Template_2\deployment\model\lib\userlib
+     [copy] Copying 3 files to C:\Users\eg\Documents\Mendix\Approval Template_2\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
